@@ -12,10 +12,6 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Medium Posts
 
@@ -26,11 +22,11 @@
 - [Windows Terminal: A Must-Have Productivity Tool for Windows Programmers](https://medium.com/analytics-vidhya/windows-terminal-a-must-have-productivity-tool-for-windows-programmers-9270d9dc4bfb)
 - [Turn on These Six Power-User Features of Your Jupyter Notebook Now](https://medium.com/analytics-vidhya/turn-on-these-six-power-user-features-of-your-jupyter-notebook-now-a80e35854358)
 - [Interactive Visualization for Exploratory Data Analysis in Jupyter Notebook](https://ppeng08.medium.com/interactive-visualization-for-exploratory-data-analysis-in-jupyter-notebook-adc826e1e76a)
----
-
-
-
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+
+
+
+---
+

@@ -1,4 +1,3 @@
----
 
 ### Medium Posts
 
@@ -10,7 +9,6 @@
 - [Turn on These Six Power-User Features of Your Jupyter Notebook Now](https://medium.com/analytics-vidhya/turn-on-these-six-power-user-features-of-your-jupyter-notebook-now-a80e35854358)
 - [Interactive Visualization for Exploratory Data Analysis in Jupyter Notebook](https://ppeng08.medium.com/interactive-visualization-for-exploratory-data-analysis-in-jupyter-notebook-adc826e1e76a)
 
----
 
 
 

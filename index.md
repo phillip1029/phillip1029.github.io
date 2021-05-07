@@ -1,5 +1,5 @@
 ### Open Source Project
-- **Python packages:** [forecasttime](https://github.com/phillip1029/forecasttime)
+- *Python packages:* [forecasttime](https://github.com/phillip1029/forecasttime)
 ---
 ### Medium Posts
 

@@ -1,9 +1,10 @@
 
 ---
 
-### Open Source Project
-- *Python packages:* [forecasttime](https://github.com/phillip1029/forecasttime)
+### About Me
+As a seasoned practitioner of AI technology and a visionary leader, I excel in transforming businesses by implementing analytical and AI-driven solutions. My extensive background spans over 15 years in the realms of applied AI, data science, and cloud computing. I am currently leveraging this expertise as the Chief Technology Officer at AI Made Easy, where my focus is to enable higher education institutions and various organizations to harness the transformative power of artificial intelligence.
 
+My practical approach involves creating advanced AI applications that turn unstructured data into valuable insights, facilitating informed decision-making processes. My leadership is instrumental in guiding the product development lifecycle and ensuring the deployment of these applications aligns with the innovative standards of the AI industry.
 ---
 
 ### Medium Posts

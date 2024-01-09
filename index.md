@@ -12,6 +12,8 @@ My practical approach involves creating advanced AI applications that turn unstr
 
 ### Medium Posts
 
+- [Thriving in the AI Era: The Imperative of Lifelong Learning](https://medium.com/@ppeng08/thriving-in-the-ai-era-the-imperative-of-lifelong-learning-504529bfb907)
+- [Setting Up a Linux Data Science Environment on Windows](https://ppeng08.medium.com/setting-up-a-linux-data-science-environment-on-windows-a01c7eaad8f5)
 - [How to Auto Shutdown An Idle VM Instance on GCP to Cut Fat Bills](https://medium.com/analytics-vidhya/how-to-auto-shutdown-an-idle-vm-instance-on-gcp-to-cut-fat-bills-b08ae20437af)
 - [Take Full Control of AI Notebook Instance on GCP via Putty](https://medium.com/analytics-vidhya/take-full-control-of-ai-notebook-instance-on-gcp-via-putty-814ae0e11873)
 - [Time-Series Cluster Analysis of US COVID-19 Deaths](https://medium.com/analytics-vidhya/time-series-cluster-analysis-of-us-covid-19-deaths-b31da03000b7)

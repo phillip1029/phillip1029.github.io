@@ -3,12 +3,12 @@
 
 ### About Me
 
-As a seasoned practitioner of AI technology and a visionary leader, I excel in transforming businesses by implementing analytical and AI-driven solutions. My extensive background spans over 15 years in the realms of applied AI, data science, and cloud computing. I am currently leveraging this expertise as the Chief Technology Officer at AI Made Easy, where my focus is to enable higher education institutions and various organizations to harness the transformative power of artificial intelligence.
-
-My practical approach involves creating advanced AI applications that turn unstructured data into valuable insights, facilitating informed decision-making processes. My leadership is instrumental in guiding the product development lifecycle and ensuring the deployment of these applications aligns with the innovative standards of the AI industry.
-
+Accomplished Data Strategist and Machine Learning Engineer with a robust track record in spearheading AI/ML innovations and deploying machine learning models in high-stakes production environments. With a specialty in crafting complex data pipelines, model fine-tuning, and performance optimization, I bring forth a blend of technical acumen and strategic insight. I excel at rallying cross-functional teams to harness the power of data-driven solutions, driving significant business impact. My academic background in Agricultural Economics, complemented by ongoing development in AI, Machine Learning, and Project Management, equips me with a unique perspective and versatile skill set in the tech landscape.
 
 ---
+
+### GPT: 
+https://bit.ly/visualMentorGPT 
 
 ### Medium Posts
 

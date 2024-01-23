@@ -8,7 +8,7 @@ Accomplished Data Strategist and Machine Learning Engineer with a robust track r
 ---
 
 ### GPT: 
-https://bit.ly/visualMentorGPT 
+[Visual Mentor GPT](https://bit.ly/visualMentorGPT)
 
 ### Medium Posts
 

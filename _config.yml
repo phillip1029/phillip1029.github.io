@@ -4,10 +4,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="/pdf/resume_phillip_2024.pdf">Resume</a> 
   <br><br> 
   <a href="https://www.linkedin.com/in/phillippeng/">LinkedIn Profile</a> 
-  <br>
-  ### About Me
-
-  Accomplished Data Strategist and Machine Learning Engineer with a robust track record in spearheading AI/ML innovations and deploying machine learning models in high-stakes production environments. With a specialty in crafting complex data pipelines, model fine-tuning, and performance optimization, I bring forth a blend of technical acumen and strategic insight. I excel at rallying cross-functional teams to harness the power of data-driven solutions, driving significant business impact. My academic background in Agricultural Economics, complemented by ongoing development in AI, Machine Learning, and Project Management, equips me with a unique perspective and versatile skill set in the tech landscape.
+  <br><br> 
+  <h1>About Me </h1>
+  <br><br> 
+  <h4> Expert Data Strategist and hands-on Machine Learning Engineer with a stellar record in leading AI innovation and deploying robust models in production. Skilled in building intricate data pipelines and fine-tuning for peak performance, adept at steering cross-functional teams to achieve impactful results with data-centric strategies. Merges a rich tech expertise with an Agricultural Economics background, offering a unique, versatile leadership approach to drive tech advancements and business success. <h4>
   <br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

@@ -1,10 +1,3 @@
-
----
-
-### About Me
-
-Accomplished Data Strategist and Machine Learning Engineer with a robust track record in spearheading AI/ML innovations and deploying machine learning models in high-stakes production environments. With a specialty in crafting complex data pipelines, model fine-tuning, and performance optimization, I bring forth a blend of technical acumen and strategic insight. I excel at rallying cross-functional teams to harness the power of data-driven solutions, driving significant business impact. My academic background in Agricultural Economics, complemented by ongoing development in AI, Machine Learning, and Project Management, equips me with a unique perspective and versatile skill set in the tech landscape.
-
 ---
 ### Generative BI: [IPEDS Insight Explorer: Unveil Trends with Generative BI](https://chat-ipeds.aimeproduct.com/)
 - By consolidating over 400 diverse data files, this project creates a unified, comprehensive dataset that serves as the foundation for advanced analysis. Leveraging cutting-edge generative AI models, it transforms raw data into actionable insights in real-time, enabling more informed decision-making across all levels of your organization.   

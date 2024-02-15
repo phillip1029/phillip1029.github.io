@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br> 
   <h1>About Me </h1>
   <br><br> 
-  <h4> Expert Data Strategist and hands-on Machine Learning Engineer with a stellar record in leading AI innovation and deploying robust models in production. Skilled in building intricate data pipelines and fine-tuning for peak performance, adept at steering cross-functional teams to achieve impactful results with data-centric strategies. Merges a rich tech expertise with an Agricultural Economics background, offering a unique, versatile leadership approach to drive tech advancements and business success. <h4>
+  <p> Expert Data Strategist and hands-on Machine Learning Engineer with a stellar record in leading AI innovation and deploying robust models in production. Skilled in building intricate data pipelines and fine-tuning for peak performance, adept at steering cross-functional teams to achieve impactful results with data-centric strategies. Merges a rich tech expertise with an Agricultural Economics background, offering a unique, versatile leadership approach to drive tech advancements and business success. <p>
   <br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

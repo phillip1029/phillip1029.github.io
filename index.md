@@ -2,11 +2,9 @@
 ### Generative BI: [IPEDS Insight Explorer: Unveil Trends with Generative BI](https://chat-ipeds.aimeproduct.com/)
 - By consolidating over 400 diverse data files, this project creates a unified, comprehensive dataset that serves as the foundation for advanced analysis. Leveraging cutting-edge generative AI models, it transforms raw data into actionable insights in real-time, enabling more informed decision-making across all levels of your organization.   
 
-### GPT: 
-[Visual Mentor GPT](https://bit.ly/visualMentorGPT)
-
-### Medium Posts
-
+### Blog Posts
+- [How Should an Agilist Pick the Right Generative AI Project?](https://www.linkedin.com/pulse/how-should-agilist-pick-right-generative-ai-project-phillip-peng-7pfre/?trackingId=Te8qNbNLDK9ZKJ1bLxzxng%3D%3D)
+- [OpenAI's SORA: A Revolutionary Shift in Video Advertising](https://www.linkedin.com/pulse/openais-sora-revolutionary-shift-video-advertising-phillip-peng-9vqjc/?trackingId=FQJDE0I9svn3bq%2BH58yKEA%3D%3D)
 - [Navigating the Future: A Deep Dive into the Imperative of AI Governance](https://medium.com/@ppeng08/navigating-the-future-a-deep-dive-into-the-imperative-of-ai-governance-fdb332f4051f)
 - [Practical Guide to Prompt Compression: Essential Optimization for RAG-Based Applications](https://medium.com/@ppeng08/practical-guide-to-prompt-compression-essential-optimization-for-rag-based-applications-431791167b38)
 - [Thriving in the AI Era: The Imperative of Lifelong Learning](https://medium.com/@ppeng08/thriving-in-the-ai-era-the-imperative-of-lifelong-learning-504529bfb907)

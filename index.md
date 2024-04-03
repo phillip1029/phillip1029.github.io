@@ -2,6 +2,8 @@
 ### Generative BI: [IPEDS Insight Explorer: Unveil Trends with Generative BI](https://chat-ipeds.aimeproduct.com/)
 - By consolidating over 400 diverse data files, this project creates a unified, comprehensive dataset that serves as the foundation for advanced analysis. Leveraging cutting-edge generative AI models, it transforms raw data into actionable insights in real-time, enabling more informed decision-making across all levels of your organization.   
 
+### Book: [Marketing Analytics with Python](https://phillip1029.github.io/marketing-analytics-with-python)
+
 ### Blog Posts
 
 - [Customer Journey Visualization with Python](https://medium.com/@ppeng08/customer-journey-visualization-with-python-1c817f328e5e)

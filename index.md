@@ -6,6 +6,7 @@
 
 ### Blog Posts
 
+- [Unleashing Generative AI: A New Dawn for Data Science and Machine Learning](https://medium.com/stackademic/unleashing-generative-ai-a-new-dawn-for-data-science-and-machine-learning-0e163da2c1a9?source=your_stories_page-------------------------------------)
 - [Customer Journey Visualization with Python](https://medium.com/@ppeng08/customer-journey-visualization-with-python-1c817f328e5e)
 - [Maximizing Profits with Machine Learning: A Guide to Retail Price Optimization](https://medium.com/@ppeng08/maximizing-profits-with-machine-learning-a-guide-to-retail-price-optimization-560360efa8b5)
 - [How Should an Agilist Pick the Right Generative AI Project?](https://www.linkedin.com/pulse/how-should-agilist-pick-right-generative-ai-project-phillip-peng-7pfre/?trackingId=Te8qNbNLDK9ZKJ1bLxzxng%3D%3D)
